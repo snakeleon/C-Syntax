@@ -8,4 +8,4 @@
 	调整配色，如果各位有更好的方法请给我邮件，我们一起修改使它趋于完美。
 
 	以下是效果图：
-	![image](http://github.com/snakeleon/csyntax/raw/master/demo.jpg)
+	![image](http://raw.github.com/snakeleon/csyntax/master/demo.jpg)

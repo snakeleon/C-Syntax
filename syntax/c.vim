@@ -8,11 +8,11 @@ hi cFunction        gui=NONE guifg=#B5A1FF
 " 类名高亮
 syn match cClassName "\<[a-zA-Z_][a-zA-Z_0-9]*\>*\:"me=e-1
 syn match cClassName "\<[a-zA-Z_][a-zA-Z_0-9]*\>*\."me=e-1
-hi cClassName gui=NONE guifg=#EE3A8C
+hi cClassName gui=NONE guifg=#C0F570
 " 数组高亮
 syn match cVariant "\<[a-zA-Z_][a-zA-Z_0-9]*\>[^\[\]]*\]\["me=e-2
 syn match cVariant "\<[a-zA-Z_][a-zA-Z_0-9]*\>\s*\["me=e-1
-hi cVariant gui=NONE guifg=#D2691E
+hi cVariant gui=NONE guifg=#FA5BFA
 
 "========================================================
 " 高亮数学运算符
@@ -43,20 +43,20 @@ syn match		cComma				display "\,"
 syn match		cSemicolon			display "\;"
 " 定义色彩
 " --------------------------------------------------------------------------
-hi cMathOperator            guifg=#76EE00
+hi cMathOperator            guifg=#22FF4E
 hi cPointerOperator         guifg=#FF6600
 hi cLogicalOperator         guifg=#3EFFE2
-hi cBinaryOperator          guifg=CYAN
+hi cBinaryOperator          guifg=#50F3F3
 hi cBinaryOperatorError     guifg=#3EFFE2
 hi cLogicalOperator         guifg=#3EFFE2
 hi cLogicalOperatorError    guifg=#3EFFE2
 hi cBrace					guifg=#00ff00
 "hi cBrackets				guifg=#0000ff
-hi cParenthesis				guifg=#00ff00
+hi cParenthesis				guifg=#88FF88
 hi cComma					guifg=RED
 hi cSemicolon				guifg=RED
 " 数字颜色
-hi Number guifg=#F35071
+hi Number guifg=#FF4444
 " 字符串的的特殊字符
 hi Special guifg=#D8D839
 

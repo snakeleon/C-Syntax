@@ -10,5 +10,5 @@
 
 以下是效果图：
 
-	![demo](./demo.jpg)
+	![demo](https://raw.githubusercontent.com/snakeleon/Csyntax/master/demo.jpg)
 

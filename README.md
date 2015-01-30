@@ -10,4 +10,4 @@
 
 以下是效果图：
 
-	![Syntax Demo](https://githun.com/snakeleon/csyntax/raw/master/demo.jpg)
+	![Syntax Demo](http://static.oschina.net/uploads/space/2013/0811/232600_OJOZ_874453.png)

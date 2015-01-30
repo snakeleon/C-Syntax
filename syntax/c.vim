@@ -1,6 +1,16 @@
+"===========================================================================
+"     FileName: c.vim
+"  Description: C syntax highlighting for VIM
+"       Author: SiFe
+"       E-Mail: snakeleon@sina.com
+"	  HomePage: https://github.com/snakeleon/Csyntax
+"      Version: 0.8.0
+"   LastChange: 2015-01-31 01:40:18
+"      History:
+"===========================================================================
 "========================================================
 " 高亮用户定义类型
-"=========================================================
+"========================================================
 " 函数名高亮
 syn match   cFunction "\<[a-zA-Z_][a-zA-Z_0-9]*\>[^()]*)("me=e-2
 syn match   cFunction "\<[a-zA-Z_][a-zA-Z_0-9]*\>\s*("me=e-1
@@ -41,6 +51,7 @@ syn match		cParenthesis		display "[\(\)]"
 syn match		cComma				display "\,"
 " 分号
 syn match		cSemicolon			display "\;"
+
 " 定义色彩
 " --------------------------------------------------------------------------
 hi cMathOperator            guifg=#22FF4E

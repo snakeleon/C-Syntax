@@ -1,5 +1,5 @@
 # Csyntax
-## C syntax highlighting for VIM
+## C/C++ syntax highlighting for VIM
 
 这是基于网上吴垠写的C语言语法高亮的修改，加入了网友提供的类与
 数组高亮的正则表达式，自己又加了括号、分号、逗号的着色。已经分别列出每

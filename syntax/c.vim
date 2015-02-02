@@ -5,7 +5,7 @@
 "       E-Mail :	snakeleon@sina.com
 "     HomePage :	https://github.com/snakeleon/csyntax
 "      Version :	0.8.0
-"   LastChange :	2015-01-31 16:41:13
+"   LastChange :	2015-02-02 11:15:08
 "      History :
 "==========================================================================
 
@@ -69,7 +69,7 @@ hi cComma						guifg=RED
 hi cSemicolon					guifg=RED
 " 数字颜色
 hi Number						guifg=#FF4444
-" 字符串的的特殊字符
+" 字符串中的特殊字符
 hi Special						guifg=#D8D839
 
 "---------------------------------------------------------------------------

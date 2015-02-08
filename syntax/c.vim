@@ -43,7 +43,7 @@ syn match	    cBinaryOperatorError	display "\~="
 syn match	    cLogicalOperator		display "&&\|||"
 syn match	    cLogicalOperatorError	display "\(&&\|||\)="
 " 大括号
-"syn match	    cBrace					display "[\{\}]"
+syn match	    cBrace					display "[\{\}]"
 " 方括号
 "syn match		cBrackets				display "[\[\]]"
 " 圆括号
@@ -68,7 +68,7 @@ hi cParenthesis				guifg=#88FF88
 hi cComma					guifg=#B8860B
 hi cSemicolon				guifg=DEEPPINK
 " 数字颜色
-"hi Number					guifg=ORANGERED
+hi Number					guifg=ORANGERED
 " 字符串的的特殊字符
 hi Special					guifg=#D8D839
 " 数据类型

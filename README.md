@@ -1,4 +1,4 @@
-# Csyntax
+# C-Syntax
 ## C/C++ syntax highlighting for VIM
 
 这是基于网上吴垠写的C语言语法高亮的修改，加入了网友提供的类与

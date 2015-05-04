@@ -3,9 +3,9 @@
 "  Description :	C/C++ syntax highlighting for VIM
 "       Author :	SiFe
 "       E-Mail :	snakeleon@sina.com
-"     HomePage :	https://github.com/snakeleon/csyntax
+"     HomePage :	https://github.com/snakeleon/C-Syntax
 "      Version :	0.8.3
-"   LastChange :	2015-02-08 11:11:25
+"   LastChange :	2015-05-04 19:33:12
 "      History :
 "==========================================================================
 

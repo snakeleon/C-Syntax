@@ -32,7 +32,7 @@ hi		cVariant		gui=NONE		guifg=#FA5BFA
 syn match	    cMathOperator			display "[-+\*/%=]"
 " C 指针操作符
 syn match	    cPointerOperator		display "->\|\."
-" C 比较运算及布尔运算 
+" C 比较运算及布尔运算
 syn match	    cLogicalOperator		display "[!<>]=\="
 syn match	    cLogicalOperator		display "=="
 " C 位运算操作符
@@ -77,13 +77,13 @@ hi Type                     guifg=#00BFFF
 "---------------------------------------------------------------------------
 " C/C++语法定义对照表
 "---------------------------------------------------------------------------
-"Comment             注释  
-"PreProc             预处理  
-"Type                数据类型  
-"Constant            常量  
-"Statement           控制语句  
-"Special             字符串中的中的特殊字符  
-"String              字符串  
-"cCppString          Cpp字符串  
-"Number              数字  
-"Todo                TODO、HACK、FIXME等标签 
+"Comment             注释
+"PreProc             预处理
+"Type                数据类型
+"Constant            常量
+"Statement           控制语句
+"Special             字符串中的中的特殊字符
+"String              字符串
+"cCppString          Cpp字符串
+"Number              数字
+"Todo                TODO、HACK、FIXME等标签

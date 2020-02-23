@@ -73,6 +73,9 @@ hi Number					guifg=ORANGERED
 hi Special					guifg=#D8D839
 " 数据类型
 hi Type                     guifg=#00BFFF
+" 行号颜色
+hi LineNr                   ctermfg=DarkGray
+hi LineNr                   guifg=DarkGray
 
 "---------------------------------------------------------------------------
 " C/C++语法定义对照表

@@ -2,10 +2,10 @@
 "     FileName :	c.vim
 "  Description :	C/C++ syntax highlighting for VIM
 "       Author :	SiFe
-"       E-Mail :	snakeleon@sina.com
+"       E-Mail :	snakeleon@gmail.com
 "     HomePage :	https://github.com/snakeleon/C-Syntax
 "      Version :	0.8.3
-"   LastChange :	2015-05-04 19:33:12
+"   LastChange :	2020-02-24 19:44:29
 "      History :
 "==========================================================================
 
